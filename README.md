@@ -1,5 +1,9 @@
 - #EXTM3U
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E2
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/60594.m3u8
+1,A&E3
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/60594.ts
+1,A&E
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/1
 #EXTINF:-1,AXN
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/2
