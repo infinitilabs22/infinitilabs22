@@ -4,7 +4,7 @@
 #EXTGRP:unsorted
 https://infinititvapk.com/wp-content/uploads/2020/07/infiniti-tv-en-pc.png
 #EXTINF:-1,A&E
-https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/1
+https://s1.dominiopersonal.xyz:2083/live/paraplayer/dqiuQwJNr9/1.m3u8
 #EXTINF:-1,AXN
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/2
 #EXTINF:-1,Animal Planet
