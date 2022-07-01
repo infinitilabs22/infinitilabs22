@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:0,1 infiniti-max
 #EXTGRP:unsorted
-https://infinititvapk.com/wp-content/uploads/2020/07/infiniti-tv-en-pc.png
+https://presetsgratis.com/wp-content/uploads/2021/10/infiniti-plus-apk.png
 #EXTINF:-1,A&E
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/1
 #EXTINF:-1,AXN
