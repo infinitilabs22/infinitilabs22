@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://www.tendenciainternacional.com/wp-content/uploads/2022/10/4c2de768.jpeg" group-title="2023",la sirenita (2023)
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png" group-title="2022",4 mitades (2022)
 http://vod.tuxchannel.mx/peliculas/720/quattro%20meta%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg" group-title="2022",9 balas: A la fuga (2022)
