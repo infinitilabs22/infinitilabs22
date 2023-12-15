@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,DESCARGA INFINITI-MAX APK DESDE NUESTRO GRUPO DE TELEGRAM
-
+https://infinititvapk.com/wp-content/uploads/2020/07/infiniti-tv-en-pc.png
 
 #EXTINF:-1,Dejar el mundo atrás (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Dejar%20el%20mundo%20atr%C3%A1s%20online%20HD%20-%20Cuevana%202.mp4
